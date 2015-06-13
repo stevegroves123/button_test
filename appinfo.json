@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "stevegroves123@gmail.com",
+    "longName": "Button_test",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Button_test",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "58fade4b-8b02-4977-992b-0f4ca9e0b514",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
